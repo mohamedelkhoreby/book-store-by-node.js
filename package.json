@@ -13,6 +13,7 @@
   "author": "mohamed gamal",
   "license": "ISC",
   "dependencies": {
-    "joi": "^17.9.2"
+    "joi": "^17.9.2",
+    "mongoose": "^7.4.0"
   }
 }
